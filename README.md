@@ -3,7 +3,6 @@
 **Save slots, outfits and unlocks for the Skate 2 PC port.**
 A small launcher in the style of the Skate 2 menus: pick a save, pick an outfit, tick what you want, hit **play**.
 
-> Fan-made. Not affiliated with, endorsed or sponsored by Electronic Arts or EA Black Box.
 
 ---
 
