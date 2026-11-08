@@ -3,7 +3,7 @@
 **Save slots, outfits and unlocks for the Skate 2 PC port.**
 A small launcher in the style of the Skate 2 menus: pick a save, pick an outfit, tick what you want, hit **play**.
 
-
+![Image alt](https://github.com/shadeqls-lang/skate2-unlocker/blob/main/logo.png)
 ---
 
 ## Features
